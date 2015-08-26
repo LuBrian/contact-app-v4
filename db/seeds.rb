@@ -1,0 +1,6 @@
+Contact.create(firstname: 'brian', lastname: 'lu', email: 'brianbylu@gmail.com')
+Contact.create(firstname: 'Jason', lastname: 'liu', email: 'jasonliu@gmail.com')
+Contact.create(firstname: 'jacob', lastname: 'thomas', email: 'jaocothom@gmail.com')
+Contact.create(firstname: 'william', lastname: 'chan', email: 'williamch@gmail.com')
+Contact.create(firstname: 'collin', lastname: 'huang', email: 'collinh@gmail.com')
+Contact.create(firstname: 'frank', lastname: 'kun', email: 'frankun@gmail.com')
